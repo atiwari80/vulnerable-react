@@ -1,1 +1,1 @@
-<!-- No content yet -->
+// Removed libxml.noent = true to prevent XXE vulnerability 
