@@ -1,3 +1,1 @@
-
-
-// Removed libxml.noent = false
+if (passport.domains.includes(url.parse(req.body.redirectionUrl).hostname)) {\n    res.redirect(req.body.redirectionUrl);\n} else {\n    // Show an error message to the user or redirect to a safe location\n    }\n
