@@ -1,2 +1,3 @@
-// Removed libxml.noent = true to prevent XXE vulnerability
+// Removed libxml.noent = true
+
 libxml.noent=false
